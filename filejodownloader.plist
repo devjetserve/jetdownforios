@@ -17,13 +17,13 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>net.filejo.filejodownloaderios</string>
+        <string>com.filejo.filejodownloaderios</string>
         <key>bundle-version</key>
         <string>1.1</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>filejodownloader</string>
+        <string>downloaderforfilejo</string>
       </dict>
     </dict>
   </array>
